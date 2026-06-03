@@ -13,5 +13,5 @@ All projects are organized in folders for  easy exploration.
 # How To Use
 * Browse the folders to discover the project by topics or interest.
 * Each project is consist of a README.md file or documentation.
-* I use this code as a starting point, learning and reference.
+* I guse this code as a starting point, learning and reference.
 
